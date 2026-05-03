@@ -1,0 +1,1253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260503182337WUSDR1</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260503182337V7DJ1A</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Epistemología moderna y epistemología emergente</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Trabajo de Clase</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Richard A. Caballero C.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777832826908</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-moq3rge3-j1rpllum5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Página de Presentación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página de Presentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Página de Presentación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moq3rge3-j1rpllum5</odePageId>
+      <odeBlockId>block-1777832925540-sihz2py94</odeBlockId>
+      <blockName>01</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq3rge3-j1rpllum5</odePageId>
+          <odeBlockId>block-1777832925540-sihz2py94</odeBlockId>
+          <odeIdeviceId>idevice-1777832925537-i39bcgfzg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;">Universidad Autónoma de Chiriquí</p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;">Facultad de Ciencias de la Educación</p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;">Programa de Maestría en Dirección y Supervisión Educativa</p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;">Nombre de la Asignatura:</p>
+<p style="text-align: center;">Epistemología</p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;">Abreviatura / Número: MDSE-805</p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;">Estudiante: Richard Adolfo caballero Castillo</p>
+<p style="text-align: center;">Cédula: 4-717-1692</p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;">Tutora: Juanita Murillo Miranda</p>
+<p style="text-align: center;">Tema</p>
+<p style="text-align: center;">Pagina Web de Epistemología moderna y epistemología emergente</p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;">Fecha: 03/05/26</p>
+<p style="text-align: center;">Tutora. Juanita Murillo Miranda</p>
+<p style="text-align: center;">juanita.murillo@unachi.ac.pa</p>
+<p style="text-align: center;">Celular: 6924-45-44</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777832925537-i39bcgfzg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\">Universidad Autónoma de Chiriquí</p>\n<p style=\"text-align: center;\"> </p>\n<p style=\"text-align: center;\">Facultad de Ciencias de la Educación</p>\n<p style=\"text-align: center;\"> </p>\n<p style=\"text-align: center;\">Programa de Maestría en Dirección y Supervisión Educativa</p>\n<p style=\"text-align: center;\"> </p>\n<p style=\"text-align: center;\">Nombre de la Asignatura:</p>\n<p style=\"text-align: center;\">Epistemología</p>\n<p style=\"text-align: center;\"> </p>\n<p style=\"text-align: center;\">Abreviatura / Número: MDSE-805</p>\n<p style=\"text-align: center;\"> </p>\n<p style=\"text-align: center;\">Estudiante: Richard Adolfo caballero Castillo</p>\n<p style=\"text-align: center;\">Cédula: 4-717-1692</p>\n<p style=\"text-align: center;\"> </p>\n<p style=\"text-align: center;\">Tutora: Juanita Murillo Miranda</p>\n<p style=\"text-align: center;\">Tema</p>\n<p style=\"text-align: center;\">Pagina Web de Epistemología moderna y epistemología emergente</p>\n<p style=\"text-align: center;\"> </p>\n<p style=\"text-align: center;\">Fecha: 03/05/26</p>\n<p style=\"text-align: center;\">Tutora. Juanita Murillo Miranda</p>\n<p style=\"text-align: center;\">juanita.murillo@unachi.ac.pa</p>\n<p style=\"text-align: center;\">Celular: 6924-45-44</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777837026009-yu0atnlgo</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Introducción</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777837026009-yu0atnlgo</odePageId>
+      <odeBlockId>block-1777837440226-q7h9uw68b</odeBlockId>
+      <blockName>Introducción</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777837026009-yu0atnlgo</odePageId>
+          <odeBlockId>block-1777837440226-q7h9uw68b</odeBlockId>
+          <odeIdeviceId>idevice-1777837440225-s3nkgyzzw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHIo4ZxBUI/yxFkh7QTKNhTqYwdqRir9w/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHIo4ZxBUI/yxFkh7QTKNhTqYwdqRir9w/view?utm_content=DAHIo4ZxBUI&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">La epistemología moderna y la epistemología emergente representan dos grandes formas de entender cómo se produce, valida y utiliza el conocimiento en la ciencia y en la educación. Mientras la moderna se afianza en la racionalidad, la objetividad y el</a> de Richard Caballero</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777837440225-s3nkgyzzw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHIo4ZxBUI/yxFkh7QTKNhTqYwdqRir9w/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHIo4ZxBUI/yxFkh7QTKNhTqYwdqRir9w/view?utm_content=DAHIo4ZxBUI&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link\" target=\"_blank\" rel=\"noopener\">La epistemología moderna y la epistemología emergente representan dos grandes formas de entender cómo se produce, valida y utiliza el conocimiento en la ciencia y en la educación. Mientras la moderna se afianza en la racionalidad, la objetividad y el</a> de Richard Caballero</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777837784101-7v0ivn68q</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Importancia</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Importancia</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777837784101-7v0ivn68q</odePageId>
+      <odeBlockId>block-1777837786361-hf4d55kxa</odeBlockId>
+      <blockName>Importancia</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777837784101-7v0ivn68q</odePageId>
+          <odeBlockId>block-1777837786361-hf4d55kxa</odeBlockId>
+          <odeIdeviceId>idevice-1777837786359-jbf0573ef</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHIo3U9kdA/CRXbxJ8qxgoaWeA4V57log/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHIo3U9kdA/CRXbxJ8qxgoaWeA4V57log/view?utm_content=DAHIo3U9kdA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Importancia del tema</a> de Richard Caballero</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777837786359-jbf0573ef","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHIo3U9kdA/CRXbxJ8qxgoaWeA4V57log/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHIo3U9kdA/CRXbxJ8qxgoaWeA4V57log/view?utm_content=DAHIo3U9kdA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link\" target=\"_blank\" rel=\"noopener\">Importancia del tema</a> de Richard Caballero</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777838145556-c5ow26uam</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Fundamentos de la epistemología moderna</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Fundamentos de la epistemología moderna</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777838145556-c5ow26uam</odePageId>
+      <odeBlockId>block-1777838490924-zjo9k5h9k</odeBlockId>
+      <blockName>Fundamentos</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777838145556-c5ow26uam</odePageId>
+          <odeBlockId>block-1777838490924-zjo9k5h9k</odeBlockId>
+          <odeIdeviceId>idevice-1777838490923-z3jw2ypjm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHIo_PLByQ/TOnIX897Z-xL-rHBRrT8Lw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHIo_PLByQ/TOnIX897Z-xL-rHBRrT8Lw/view?utm_content=DAHIo_PLByQ&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Qué es el conocimiento y cómo se valida En la epistemología moderna el conocimiento se define como una creencia verdadera y justificada, cuya validez se apoya en la razón, la lógica y la observación empírica. La validación se hace mediante métodos</a> de Richard Caballero</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777838490923-z3jw2ypjm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 100.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHIo_PLByQ/TOnIX897Z-xL-rHBRrT8Lw/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHIo_PLByQ/TOnIX897Z-xL-rHBRrT8Lw/view?utm_content=DAHIo_PLByQ&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link\" target=\"_blank\" rel=\"noopener\">Qué es el conocimiento y cómo se valida En la epistemología moderna el conocimiento se define como una creencia verdadera y justificada, cuya validez se apoya en la razón, la lógica y la observación empírica. La validación se hace mediante métodos</a> de Richard Caballero</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777841055922-y4tckw02g</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Epistemología emergente: corrientes y pensadores</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Epistemología emergente: corrientes y pensadores</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777841055922-y4tckw02g</odePageId>
+      <odeBlockId>block-1777842714344-5r2n5pv6w</odeBlockId>
+      <blockName>Epistemología</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777841055922-y4tckw02g</odePageId>
+          <odeBlockId>block-1777842714344-5r2n5pv6w</odeBlockId>
+          <odeIdeviceId>idevice-1777842714340-u87ayvy88</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHIpK5OT9E/-97rPO3rwRVNkxnyqDN6xw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHIpK5OT9E/-97rPO3rwRVNkxnyqDN6xw/view?utm_content=DAHIpK5OT9E&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">What’s Inside</a> de Richard Caballero</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777842714340-u87ayvy88","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 100.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHIpK5OT9E/-97rPO3rwRVNkxnyqDN6xw/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHIpK5OT9E/-97rPO3rwRVNkxnyqDN6xw/view?utm_content=DAHIpK5OT9E&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link\" target=\"_blank\" rel=\"noopener\">What’s Inside</a> de Richard Caballero</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777842945252-7czpbdgac</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Comparación entre epistemología moderna y emergente</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Comparación entre epistemología moderna y emergente</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777842945252-7czpbdgac</odePageId>
+      <odeBlockId>block-1777843451425-dtph1iekt</odeBlockId>
+      <blockName>Comparación</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777842945252-7czpbdgac</odePageId>
+          <odeBlockId>block-1777843451425-dtph1iekt</odeBlockId>
+          <odeIdeviceId>idevice-1777843451423-7ggitm2e3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Cómo cambia la forma de producir conocimiento</strong></p>
+<table border="1" style="width: 100.023%;">
+<tbody>
+<tr>
+<td style="width: 33.2942%; text-align: left;"><strong>Aspecto</strong><br /></td>
+<td style="width: 33.2942%; text-align: left;"><strong>Epistemología moderna</strong></td>
+<td style="width: 33.2956%; text-align: left;"><strong>Epistemología emergente</strong></td>
+</tr>
+<tr>
+<td style="width: 33.2942%;">Fuente del conocimiento</td>
+<td style="width: 33.2942%;">Razón y experiencia sensorial, separadas y jerarquizadas. revistas.</td>
+<td style="width: 33.2956%;">Interacción sujeta–mundo, diálogo y construcción social. </td>
+</tr>
+<tr>
+<td style="width: 33.2942%;">Modelo de verdad</td>
+<td style="width: 33.2942%;">Verdad objetiva, universa, verificable o falsable. </td>
+<td style="width: 33.2956%;">Verdad situada, procesual y negociada en contextos. </td>
+</tr>
+<tr>
+<td style="width: 33.2942%;">Metodología dominante</td>
+<td style="width: 33.2942%;">Método científico como modelo único (hipótesis–experimento–conclusión). </td>
+<td style="width: 33.2956%;">Múltiples métodos, cualitativos, participativos, mixtos. </td>
+</tr>
+<tr>
+<td style="width: 33.2942%;">Relación sujeta–objeto</td>
+<td style="width: 33.2942%;">Sujeto externo que observa y controla el objeto. </td>
+<td style="width: 33.2956%;">Sujeto-objeto interdependientes, donde el investigador forma parte del fenómeno.</td>
+</tr>
+<tr>
+<td style="width: 33.2942%;">Alcance disciplinar</td>
+<td style="width: 33.2942%;">Disciplinas separadas (ciencias naturales vs sociales). </td>
+<td style="width: 33.2956%;">Enfoque transdisciplinario y sistémico.</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777843451423-7ggitm2e3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Cómo cambia la forma de producir conocimiento</strong></p>\n<table border=\"1\" style=\"width: 100.023%;\">\n<tbody>\n<tr>\n<td style=\"width: 33.2942%; text-align: left;\"><strong>Aspecto</strong><br /></td>\n<td style=\"width: 33.2942%; text-align: left;\"><strong>Epistemología moderna</strong></td>\n<td style=\"width: 33.2956%; text-align: left;\"><strong>Epistemología emergente</strong></td>\n</tr>\n<tr>\n<td style=\"width: 33.2942%;\">Fuente del conocimiento</td>\n<td style=\"width: 33.2942%;\">Razón y experiencia sensorial, separadas y jerarquizadas. revistas.</td>\n<td style=\"width: 33.2956%;\">Interacción sujeta–mundo, diálogo y construcción social. </td>\n</tr>\n<tr>\n<td style=\"width: 33.2942%;\">Modelo de verdad</td>\n<td style=\"width: 33.2942%;\">Verdad objetiva, universa, verificable o falsable. </td>\n<td style=\"width: 33.2956%;\">Verdad situada, procesual y negociada en contextos. </td>\n</tr>\n<tr>\n<td style=\"width: 33.2942%;\">Metodología dominante</td>\n<td style=\"width: 33.2942%;\">Método científico como modelo único (hipótesis–experimento–conclusión). </td>\n<td style=\"width: 33.2956%;\">Múltiples métodos, cualitativos, participativos, mixtos. </td>\n</tr>\n<tr>\n<td style=\"width: 33.2942%;\">Relación sujeta–objeto</td>\n<td style=\"width: 33.2942%;\">Sujeto externo que observa y controla el objeto. </td>\n<td style=\"width: 33.2956%;\">Sujeto-objeto interdependientes, donde el investigador forma parte del fenómeno.</td>\n</tr>\n<tr>\n<td style=\"width: 33.2942%;\">Alcance disciplinar</td>\n<td style=\"width: 33.2942%;\">Disciplinas separadas (ciencias naturales vs sociales). </td>\n<td style=\"width: 33.2956%;\">Enfoque transdisciplinario y sistémico.</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777844532106-0dspk9qu7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Ventajas y limitaciones de cada enfoque</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Ventajas y limitaciones de cada enfoque</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777844532106-0dspk9qu7</odePageId>
+      <odeBlockId>block-1777846665614-n796wa6az</odeBlockId>
+      <blockName>Ventajas y limitaciones</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777844532106-0dspk9qu7</odePageId>
+          <odeBlockId>block-1777846665614-n796wa6az</odeBlockId>
+          <odeIdeviceId>idevice-1777846665612-0f23sh8mo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHIpkqH530/-5CVWGkBXh04gLozvPYQbw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHIpkqH530/-5CVWGkBXh04gLozvPYQbw/view?utm_content=DAHIpkqH530&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Ventajas: permite rigor metodológico, predictibilidad y acumulación de conocimientos verificables; es muy eficaz en ciencias naturales y técnicas.</a> de Richard Caballero</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777846665612-0f23sh8mo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 100.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHIpkqH530/-5CVWGkBXh04gLozvPYQbw/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHIpkqH530/-5CVWGkBXh04gLozvPYQbw/view?utm_content=DAHIpkqH530&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link\" target=\"_blank\" rel=\"noopener\">Ventajas: permite rigor metodológico, predictibilidad y acumulación de conocimientos verificables; es muy eficaz en ciencias naturales y técnicas.</a> de Richard Caballero</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777846842073-wvhyb7fx7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Impacto en investigación y enseñanza</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Impacto en investigación y enseñanza</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777846842073-wvhyb7fx7</odePageId>
+      <odeBlockId>block-1777846844234-dgkqzzlna</odeBlockId>
+      <blockName>Impacto</blockName>
+      <iconName>think_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777846842073-wvhyb7fx7</odePageId>
+          <odeBlockId>block-1777846844234-dgkqzzlna</odeBlockId>
+          <odeIdeviceId>idevice-1777846844233-d4zqkai1c</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHIppz3A5M/0h6VR9k9v5UE4j88gd1fxQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHIppz3A5M/0h6VR9k9v5UE4j88gd1fxQ/view?utm_content=DAHIppz3A5M&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">En investigación, la moderna privilegia protocolos cerrados, control de variables y replicabilidad; la emergente valora la comprensión profunda, la emergencia de significados y la co‑construcción del estudio con los participantes. En enseñanza, la moderna</a> de Richard Caballero</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777846844233-d4zqkai1c","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHIppz3A5M/0h6VR9k9v5UE4j88gd1fxQ/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHIppz3A5M/0h6VR9k9v5UE4j88gd1fxQ/view?utm_content=DAHIppz3A5M&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link\" target=\"_blank\" rel=\"noopener\">En investigación, la moderna privilegia protocolos cerrados, control de variables y replicabilidad; la emergente valora la comprensión profunda, la emergencia de significados y la co‑construcción del estudio con los participantes. En enseñanza, la moderna</a> de Richard Caballero</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777846933152-ykba4j60g</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Material Audiovisual</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Material Audiovisual</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777846933152-ykba4j60g</odePageId>
+      <odeBlockId>block-1777850549680-y9tqq3fvc</odeBlockId>
+      <blockName>Oservacion de video</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777846933152-ykba4j60g</odePageId>
+          <odeBlockId>block-1777850549680-y9tqq3fvc</odeBlockId>
+          <odeIdeviceId>idevice-1777850549679-l1t2o55sl</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777850549679-l1t2o55sl" title="" href="{{context_path}}/content/resources/logo_nav_color_unachi.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/logo_nav_color_unachi.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777850549679-l1t2o55sl","img_0":{"img":"{{context_path}}/content/resources/logo_nav_color_unachi.jpg","thumbnail":"{{context_path}}/content/resources/logo_nav_color_unachi.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777846972504-ou4w8bwz0</odePageId>
+  <odeParentPageId>page-1777846933152-ykba4j60g</odeParentPageId>
+  <pageName>Fundamentos de la epistemología moderna</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Fundamentos de la epistemología moderna</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777846972504-ou4w8bwz0</odePageId>
+      <odeBlockId>block-1777846982812-62990a8sj</odeBlockId>
+      <blockName>La epistemología moderna –
+     OtraClaseMás</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777846972504-ou4w8bwz0</odePageId>
+          <odeBlockId>block-1777846982812-62990a8sj</odeBlockId>
+          <odeIdeviceId>idevice-1777846982810-5z2hlf00n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="560" height="315" src="https://www.youtube.com/embed/M4dbaDTDKFE?si=3VtWs6Mz5249kYDu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Explica las posturas racionalistas, empiristas y la síntesis kantiana dentro de la epistemología moderna.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777846982810-5z2hlf00n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/M4dbaDTDKFE?si=3VtWs6Mz5249kYDu\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p>Explica las posturas racionalistas, empiristas y la síntesis kantiana dentro de la epistemología moderna.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777847124696-opj3dpn5t</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿Qué es la epistemología y para qué sirve?</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué es la epistemología y para qué sirve?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777847124696-opj3dpn5t</odePageId>
+      <odeBlockId>block-1777847135150-2stghajho</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777847124696-opj3dpn5t</odePageId>
+          <odeBlockId>block-1777847135150-2stghajho</odeBlockId>
+          <odeIdeviceId>idevice-1777847135148-kj382eq1l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="560" height="315" src="https://www.youtube.com/embed/jdlTQyku3og?si=l7eJ0XIIqC4CF4xQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Introduce de forma clara la epistemología como rama de la filosofía y su relación con el origen y la validez del conocimiento.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777847135148-kj382eq1l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/jdlTQyku3og?si=l7eJ0XIIqC4CF4xQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p>Introduce de forma clara la epistemología como rama de la filosofía y su relación con el origen y la validez del conocimiento.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777847370717-pbobs26rm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Qué es la epistemología? Filosofía y ciencia del conocimiento</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Qué es la epistemología? Filosofía y ciencia del conocimiento</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777847370717-pbobs26rm</odePageId>
+      <odeBlockId>block-1777847411990-a27bdaoro</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777847370717-pbobs26rm</odePageId>
+          <odeBlockId>block-1777847411990-a27bdaoro</odeBlockId>
+          <odeIdeviceId>idevice-1777847411989-zzkkyddra</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="560" height="315" src="https://www.youtube.com/embed/2FtclNLosk0?si=0D1cPDgJ80boWeim" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Aborda epistemología y ciencia, con referencias a racionalismo, empirismo y modos de validar el conocimiento.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777847411989-zzkkyddra","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2FtclNLosk0?si=0D1cPDgJ80boWeim\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p>Aborda epistemología y ciencia, con referencias a racionalismo, empirismo y modos de validar el conocimiento.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777847624351-8nd0lu67r</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos Complementarios</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos Complementarios</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777847624351-8nd0lu67r</odePageId>
+      <odeBlockId>block-1777848032951-nwexecsfr</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777847624351-8nd0lu67r</odePageId>
+          <odeBlockId>block-1777848032951-nwexecsfr</odeBlockId>
+          <odeIdeviceId>idevice-1777848032949-uac8guw4w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="{{context_path}}/content/resources/Recurso-01.pdf" title="Recurso-01.pdf [pdf - 347559 B]">{{context_path}}/content/resources/Recurso-01.pdf</a><span class="exe-link-data file-size">(pdf - 347559 <abbr title="Bytes">B</abbr>)</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777848032949-uac8guw4w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"{{context_path}}/content/resources/Recurso-01.pdf\" title=\"Recurso-01.pdf [pdf - 347559 B]\">{{context_path}}/content/resources/Recurso-01.pdf</a><span class=\"exe-link-data file-size\">(pdf - 347559 <abbr title=\"Bytes\">B</abbr>)</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777848181821-20pw8f8uz</odePageId>
+  <odeParentPageId>page-1777847624351-8nd0lu67r</odeParentPageId>
+  <pageName>Artículo académico sobre epistemología emergente</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Artículo académico sobre epistemología emergente</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Artículo académico sobre epistemología emergente</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777848181821-20pw8f8uz</odePageId>
+      <odeBlockId>block-1777848181821-eabfbqz2p</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777848181821-20pw8f8uz</odePageId>
+          <odeBlockId>block-1777848181821-eabfbqz2p</odeBlockId>
+          <odeIdeviceId>idevice-1777848181821-zlc2wawhi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="{{context_path}}/content/resources/Recurso-01.pdf" title="Recurso-01.pdf [pdf - 347559 B]">{{context_path}}/content/resources/Recurso-01.pdf</a><span class="exe-link-data file-size">(pdf - 347559 <abbr title="Bytes">B</abbr>)</span></p>
+<p><span class="exe-link-data file-size">Descripción: Texto académico en español que describe la epistemología emergente en la construcción teórica del conocimiento, útil para profundizar en sus bases conceptuales.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777848181821-zlc2wawhi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"{{context_path}}/content/resources/Recurso-01.pdf\" title=\"Recurso-01.pdf [pdf - 347559 B]\">{{context_path}}/content/resources/Recurso-01.pdf</a><span class=\"exe-link-data file-size\">(pdf - 347559 <abbr title=\"Bytes\">B</abbr>)</span></p>\n<p><span class=\"exe-link-data file-size\">Descripción: Texto académico en español que describe la epistemología emergente en la construcción teórica del conocimiento, útil para profundizar en sus bases conceptuales.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777849186323-owdhrgsx2</odePageId>
+  <odeParentPageId>page-1777847624351-8nd0lu67r</odeParentPageId>
+  <pageName>Portal Eleutheria </pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Portal Eleutheria </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777849186323-owdhrgsx2</odePageId>
+      <odeBlockId>block-1777849310202-3afpxm8yp</odeBlockId>
+      <blockName>Sitio web externo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777849186323-owdhrgsx2</odePageId>
+          <odeBlockId>block-1777849310202-3afpxm8yp</odeBlockId>
+          <odeIdeviceId>idevice-1777849310201-i531htidx</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://eleutheria.ufm.edu/las-epistemologas-emergentes-como-alternativas-epistmicas-al-pensamiento-crtico-latinoamericano/" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777849396577-k1uctn04z</odePageId>
+  <odeParentPageId>page-1777847624351-8nd0lu67r</odeParentPageId>
+  <pageName>Material comparativo </pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Material comparativo </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777849396577-k1uctn04z</odePageId>
+      <odeBlockId>block-1777849865583-ham0j8g7k</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777849396577-k1uctn04z</odePageId>
+          <odeBlockId>block-1777849865583-ham0j8g7k</odeBlockId>
+          <odeIdeviceId>idevice-1777849865581-odq4jyvhu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="{{context_path}}/content/resources/Recurso-03.pdf" title="Recurso-03.pdf [pdf - 388818 B]">{{context_path}}/content/resources/Recurso-03.pdf</a><span class="exe-link-data file-size">(pdf - 388818 <abbr title="Bytes">B</abbr>)</span></p>
+<p><span class="exe-link-data file-size">Descripción: Presentación en español que compara la epistemología moderna y emergente, útil como referencia visual y sintética para el estudiante.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777849865581-odq4jyvhu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"{{context_path}}/content/resources/Recurso-03.pdf\" title=\"Recurso-03.pdf [pdf - 388818 B]\">{{context_path}}/content/resources/Recurso-03.pdf</a><span class=\"exe-link-data file-size\">(pdf - 388818 <abbr title=\"Bytes\">B</abbr>)</span></p>\n<p><span class=\"exe-link-data file-size\">Descripción: Presentación en español que compara la epistemología moderna y emergente, útil como referencia visual y sintética para el estudiante.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777850005981-lk3vnwnsh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Conclusiones</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Conclusiones</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777850005981-lk3vnwnsh</odePageId>
+      <odeBlockId>block-1777850011203-2388a4l30</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777850005981-lk3vnwnsh</odePageId>
+          <odeBlockId>block-1777850011203-2388a4l30</odeBlockId>
+          <odeIdeviceId>idevice-1777850011202-l6mas32xz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><span style="color: #e03e2d; font-size: 18pt;"><strong>Conclusiones</strong></span></p>
+<p style="text-align: justify;">La epistemología moderna sigue siendo relevante por su rigor metodológico y su capacidad para generar conocimientos precisos y reproducibles, pero tiende a simplificar la complejidad de los fenómenos humanos y sociales. La epistemología emergente, en cambio, ofrece marcos más flexibles, contextualizados y participativos, que favorecen la construcción de saberes críticos y transformadores, especialmente en educación y ciencias sociales. Integrar ambas perspectivas permite articular el rigor científico con la sensibilidad ética, cultural y política del sujeto que conoce.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777850011202-l6mas32xz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><span style=\"color: #e03e2d; font-size: 18pt;\"><strong>Conclusiones</strong></span></p>\n<p style=\"text-align: justify;\">La epistemología moderna sigue siendo relevante por su rigor metodológico y su capacidad para generar conocimientos precisos y reproducibles, pero tiende a simplificar la complejidad de los fenómenos humanos y sociales. La epistemología emergente, en cambio, ofrece marcos más flexibles, contextualizados y participativos, que favorecen la construcción de saberes críticos y transformadores, especialmente en educación y ciencias sociales. Integrar ambas perspectivas permite articular el rigor científico con la sensibilidad ética, cultural y política del sujeto que conoce.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777850124564-s0rt6gh09</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Bibliografía</pageName>
+  <odeNavStructureOrder>17</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Bibliografía</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777850124564-s0rt6gh09</odePageId>
+      <odeBlockId>block-1777850142530-an9ju7nod</odeBlockId>
+      <blockName>Bibliografía</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777850124564-s0rt6gh09</odePageId>
+          <odeBlockId>block-1777850142530-an9ju7nod</odeBlockId>
+          <odeIdeviceId>idevice-1777850142528-83adqsg6e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><span style="font-size: 18pt;"><strong>Bibliografía</strong></span></p>
+<ul>
+<li>Bertalanffy, L. von. (1976). Teoría general de sistemas. Fondo de Cultura Económica.</li>
+<li>Calderón, M., Ramos, O. y Mendoza, L. (2019). Epistemología emergente en la construcción teórica del conocimiento. Revista latinoamericana de investigación educativa.<br /></li>
+<li>Freire, P. (1970). Pedagogía del oprimido. Siglo XXI Editores.</li>
+<li>Morin, E. (2001). El método: la naturaleza de la naturaleza. Cátedra.</li>
+<li>Popper, K. (1971). La lógica de la investigación científica. Tecnos.</li>
+<li>Portal Eleutheria. (2024). Las epistemologías emergentes como alternativas epistémicas al pensamiento crítico latinoamericano.</li>
+<li>Scribd. (2025–2026). Epistemología Moderna y Emergente.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777850142528-83adqsg6e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><span style=\"font-size: 18pt;\"><strong>Bibliografía</strong></span></p>\n<ul>\n<li>Bertalanffy, L. von. (1976). Teoría general de sistemas. Fondo de Cultura Económica.</li>\n<li>Calderón, M., Ramos, O. y Mendoza, L. (2019). Epistemología emergente en la construcción teórica del conocimiento. Revista latinoamericana de investigación educativa.<br /></li>\n<li>Freire, P. (1970). Pedagogía del oprimido. Siglo XXI Editores.</li>\n<li>Morin, E. (2001). El método: la naturaleza de la naturaleza. Cátedra.</li>\n<li>Popper, K. (1971). La lógica de la investigación científica. Tecnos.</li>\n<li>Portal Eleutheria. (2024). Las epistemologías emergentes como alternativas epistémicas al pensamiento crítico latinoamericano.</li>\n<li>Scribd. (2025–2026). Epistemología Moderna y Emergente.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
